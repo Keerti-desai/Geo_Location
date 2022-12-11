@@ -1,0 +1,16 @@
+body{
+    background-color:#ecf0f3;
+}
+.headline-main{
+    text-align: center;
+}
+#container{
+    margin: auto;
+    height: 300px;
+    width: 30%;
+    border: 2px solid rgb(191, 188, 188);
+    margin-top: 10%;
+    box-shadow:inset -6px -6px 13px #fff,
+    inset 6px 6px 13px rgba(0,0,0,.16);
+    background-color:#ecf0f3;
+}
